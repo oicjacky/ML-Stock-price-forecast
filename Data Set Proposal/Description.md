@@ -25,7 +25,7 @@
 # III.資料檢視&初步分析
 ![image](https://github.com/skyking363/ML-Stock-price-forecast/blob/master/10110.jpg)
 ![image](https://github.com/skyking363/ML-Stock-price-forecast/blob/master/Rplot01.png)
-* 股價動態圖 :<http://rpubs.com/skyking363/499515>
+* 股價動態圖 : <http://rpubs.com/skyking363/499515>
 # IV.	研究方法
 將每日收盤價的漲跌作為反應變數(Y)，各種技術指標(RSV、Mom、SMA、WMA、RSI、…等)以及三大法人資訊當作解釋變數(X<sub>1</sub>,X<sub>2</sub>,…,X<sub>p</sub>)，
 希望透過這些重要的技術建立模型並預測未來股價的漲跌趨勢。
