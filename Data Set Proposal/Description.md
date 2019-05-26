@@ -23,8 +23,8 @@
 8.	三大法人：
     分別為外資，投信，自營商，所佔的持股比例。一般而言，若外資持股比例在股票市場中佔有較大，則股價的漲跌會容易受到外資的買賣而影響。
 # III.資料檢視&初步分析
-![image](https://github.com/skyking363/ML-Stock-price-forecast/blob/master/10110.jpg)
-![image](https://github.com/skyking363/ML-Stock-price-forecast/blob/master/Rplot01.png)
+## ![image](https://github.com/skyking363/ML-Stock-price-forecast/blob/master/data.png)
+## ![image](https://github.com/skyking363/ML-Stock-price-forecast/blob/master/Rplot01.png)
 * 股價動態圖 : <http://rpubs.com/skyking363/499515>
 # IV.	研究方法
 將每日收盤價的漲跌作為反應變數(Y)，各種技術指標(RSV、Mom、SMA、WMA、RSI、…等)以及三大法人資訊當作解釋變數(X<sub>1</sub>,X<sub>2</sub>,…,X<sub>p</sub>)，
